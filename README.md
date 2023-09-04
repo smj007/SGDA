@@ -1,4 +1,4 @@
-# SGDA Optimization using train_SGDA.py
+# SGDA Optimization
 
 This repository contains an implementation of SGDA optimization using the `train_SGDA.py` script.
 
@@ -14,3 +14,9 @@ To use the `train_SGDA.py` script, you will need to have Python 3.x installed on
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Authors
+
+1. Omar Alama (https://github.com/OasisArtisan) 
+2. Sai Mitheran
